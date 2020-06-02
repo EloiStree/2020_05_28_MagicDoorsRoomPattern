@@ -13,7 +13,7 @@
       {
         "displayName":"Room Example" ,
         "description":"Find the room dimension to respect for the project Magic Room" ,
-        "path":"Samples/Default"
+        "path":"Samples/Room"
     }],     
   "author" : {
 "name":"Eloi Stree",
