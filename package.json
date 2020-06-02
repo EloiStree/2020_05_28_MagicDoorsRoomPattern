@@ -1,0 +1,28 @@
+
+{                                                                                
+  "name": "be.eloistree.magicdoorsroompattern",                              
+  "displayName": "Magic Doors Room Pattern",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "The pattern of a room that only is about 3x3m with a door of 1x2m as size. The goal of this package is to give the same room strucutre for everyone in the Magic Doors Project.",                         
+  "keywords": ["Pattern"," Tool"," Magic Door"," Ready To Use"," Scale"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [
+      {
+        "displayName":"Room Example" ,
+        "description":"Find the room dimension to respect for the project Magic Room" ,
+        "path":"Samples/Default"
+    }],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"streeeloi@gmail.com",
+"url":"https://eloistree.page.link/toolbox"},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git",
+"footprint":"",
+"revision":"8f8e1cdbfd08ba966fa2eda4bde70406ba703436"},     
+  "category": "Script"                   
+} 
