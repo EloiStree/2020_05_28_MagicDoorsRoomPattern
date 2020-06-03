@@ -11,8 +11,8 @@
   "relatedPackages":{},     
   "samples" : [
       {
-        "displayName":"Room Example" ,
-        "description":"Find the room dimension to respect for the project Magic Room" ,
+        "displayName":"Ready To Use folder & Scene" ,
+        "description":"Import a ready to use scene and folder structure for your package of the Magic Doors Project" ,
         "path":"Samples/Room"
     }],     
   "author" : {
