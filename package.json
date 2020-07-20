@@ -7,7 +7,7 @@
   "unityRelease": "",                             
   "description": "The pattern of a room that only is about 3x3m with a door of 1x2m as size. The goal of this package is to give the same room strucutre for everyone in the Magic Doors Project.",                         
   "keywords": ["Pattern"," Tool"," Magic Door"," Ready To Use"," Scale"],                       
-  "dependencies":{},     
+  "dependencies":{ "be.eloistree.license":"0.0.1"},     
   "relatedPackages":{},     
   "samples" : [
       {
